@@ -1,0 +1,7 @@
+#Thu Jun 08 08:15:35 KST 2017
+base.0=C\:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f2b31b4175f6e492d53e7c42f5ecc322cfcaaf28
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93542745ebf57b51dc9378edc0d9e92f89f2cd22\\classes.dex
+base.1=C\:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_93542745ebf57b51dc9378edc0d9e92f89f2cd22
+file.0=C\:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f2b31b4175f6e492d53e7c42f5ecc322cfcaaf28\\classes.dex

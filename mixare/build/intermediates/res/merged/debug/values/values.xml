@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="datasourcetypelist">
+		<item>@string/OSM</item>
+		<item>@string/MIXARE</item>
+	</string-array>
+    <string-array name="defaultdatasources">
+	    <item>Wikipedia|http://ws.geonames.org/findNearbyWikipediaJSON|0|0|true</item>
+	    <item>Twitter|http://search.twitter.com/search.json|2|0|true</item>
+	    <item>OpenStreetmap|http://open.mapquestapi.com/xapi/api/0.6/node[railway=station]|3|1|true</item>
+	    <item>Own URL|http://mixare.org/geotest.php|4|0|false</item>
+	</string-array>
+    <string-array name="displaytypelist">
+		<item>@string/CIRCLE_MARKER</item>
+		<item>@string/NAVIGATION_MARKER</item>
+	</string-array>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
+<enum name="none" value="0"/>
+
+<enum name="adjust_width" value="1"/>
+
+<enum name="adjust_height" value="2"/>
+
+</attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
+<enum name="standard" value="0"/>
+
+<enum name="wide" value="1"/>
+
+<enum name="icon_only" value="2"/>
+
+</attr><attr format="reference" name="colorScheme">
+<enum name="dark" value="0"/>
+
+<enum name="light" value="1"/>
+
+<enum name="auto" value="2"/>
+
+</attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <integer name="google_play_services_version">10298000</integer>
+    <string name="CIRCLE_MARKER">Circles</string>
+    <string name="E">E</string>
+    <string name="MIXARE">Mixare</string>
+    <string name="N">N</string>
+    <string name="NAVIGATION_MARKER">Arrows</string>
+    <string name="NE">NE</string>
+    <string name="NW">NW</string>
+    <string name="OSM">Openstreetmap</string>
+    <string name="S">S</string>
+    <string name="SE">SE</string>
+    <string name="SW">SW</string>
+    <string name="W">W</string>
+    <string name="accuracy">Accuracy: </string>
+    <string name="add_osm_menu">Add OpenStreetMap URL</string>
+    <string name="altitude">Altitude: </string>
+    <string name="app_name">Mixare</string>
+    <string name="cancel">Cancel</string>
+    <string name="close_button">Close</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="connection_GPS_dialog_button1">Continue</string>
+    <string name="connection_GPS_dialog_button2">Close</string>
+    <string name="connection_GPS_dialog_text">The GPS location can not be updated... \nIf you continue it could be that the Information 
+		\nwill not be displayed in the right place.</string>
+    <string name="connection_error_dialog">Sorry, a connection Error occured! \nPlease check if you are connected to the Internet.</string>
+    <string name="connection_error_dialog_button1">Retry</string>
+    <string name="connection_error_dialog_button2">Open Settings</string>
+    <string name="connection_error_dialog_button3">Close App</string>
+    <string name="data_source_add">Add data source</string>
+    <string name="data_source_change_osm">Changed to OpenStreetMap as data source</string>
+    <string name="data_source_change_twitter">Changed to Twitter as data source</string>
+    <string name="data_source_change_wikipedia">Changed to Wikipedia as data source</string>
+    <string name="data_source_delete">Delete data source</string>
+    <string name="data_source_delete_err">This data source cannot be deleted.</string>
+    <string name="data_source_edit">Edit data source</string>
+    <string name="data_source_edit_err">This data source cannot be edited.</string>
+    <string name="default_web_client_id" translatable="false">771419490450-amkvat8ik3ge8k6bt2l2k092jfd8951j.apps.googleusercontent.com</string>
+    <string name="download_error">Error while downloading</string>
+    <string name="download_received">Received data from</string>
+    <string name="empty_list">Sorry, \nThere is no location information \navailable within this radius.\nPlease try to search in a wider range.</string>
+    <string name="firebase_database_url" translatable="false">https://treasure-hunt-final.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">771419490450</string>
+    <string name="general_info_text">GPS info: </string>
+    <string name="general_info_title">General Information</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfjHrrDf67KHa0ySjtbG2pinUUFZNi7kg</string>
+    <string name="google_app_id" translatable="false">1:771419490450:android:1dd128c735ab3341</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfjHrrDf67KHa0ySjtbG2pinUUFZNi7kg</string>
+    <string name="google_storage_bucket" translatable="false">treasure-hunt-final.appspot.com</string>
+    <string name="gps_last_fix">Last GPS fix: </string>
+    <string name="insert_osm_url">Insert OpenStreetMap URL</string>
+    <string name="latitude">Latitude: </string>
+    <string name="launch_plugins">Launch plugins?</string>
+    <string name="license">Copyright (C) 2010- Peer internet solutions 
+		\n\nThis program is free software: 	you can redistribute it and/or modify it under the terms of the 
+		GNU General Public License as published by the Free Software Foundation, either version 3 of the License, 
+		or at your option) any later version. 
+		\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even 
+		the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
+		License for more details. 
+		\n\n You should have received a copy of the GNU General Public License along with this program. 
+		If not, see &lt;http://www.gnu.org/licenses/>
+	</string>
+    <string name="license_title">License</string>
+    <string name="location_not_found">Location not found, make sure you enabled Wifi location or GPS in the settings.</string>
+    <string name="longitude">Longitude: </string>
+    <string name="map_current_location_click">Your current location</string>
+    <string name="map_menu_cam_mode">Camera</string>
+    <string name="map_menu_normal_mode">Map</string>
+    <string name="map_menu_satellite_mode">Satellite</string>
+    <string name="map_my_location">My Location</string>
+    <string name="map_toggle_path_off">Hide Path</string>
+    <string name="map_toggle_path_on">Show Path</string>
+    <string name="menu_item_1">Data Source</string>
+    <string name="menu_item_2">List view</string>
+    <string name="menu_item_3">Map view</string>
+    <string name="menu_item_4">Zoom level</string>
+    <string name="menu_item_5">Search</string>
+    <string name="menu_item_6">Info</string>
+    <string name="menu_item_7">License</string>
+    <string name="no">No</string>
+    <string name="no_website_available">Sorry, there is no further \ninformation available.</string>
+    <string name="option_not_available">Sorry, We are working on it... \nThis option will be available soon!</string>
+    <string name="osm_max_object_menu">Set max POI per URL</string>
+    <string name="plugin_message">Some plugins where found, do you want to enable them?</string>
+    <string name="refreshing">Refreshing</string>
+    <string name="remember_this_decision">Remember this decision</string>
+    <string name="search_active_1">Search on data source</string>
+    <string name="search_active_2">. Touch to terminate search</string>
+    <string name="search_failed_notification">No search results</string>
+    <string name="search_hint">Search Location</string>
+    <string name="set_osm_max_object">Maximum POIs per URL</string>
+    <string name="source_openstreetmap">Stations around</string>
+    <string name="speed">Speed: </string>
+    <string name="yes">Yes</string>
+</resources>

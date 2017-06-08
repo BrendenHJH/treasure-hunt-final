@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="CIRCLE_MARKER">Zirkuluak</string>
+    <string name="E">E</string>
+    <string name="MIXARE">Mixare</string>
+    <string name="N">I</string>
+    <string name="NAVIGATION_MARKER">Geziak</string>
+    <string name="NE">IE</string>
+    <string name="NW">IM</string>
+    <string name="OSM">Openstreetmap</string>
+    <string name="S">H</string>
+    <string name="SE">HE</string>
+    <string name="SW">HM</string>
+    <string name="W">M</string>
+    <string name="accuracy">Zehaztasuna: </string>
+    <string name="add_osm_menu">Gehitu OpenStreetMap URLa</string>
+    <string name="altitude">Altitudea: </string>
+    <string name="app_name">Mixare</string>
+    <string name="cancel">Utzi</string>
+    <string name="close_button">Itxi</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Gaitu"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Gaitu Google Play zerbitzuak"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalatu"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu gailuan."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Lortu Google Play zerbitzuak"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play zerbitzuen errorea"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> aplikazioa ezin da erabili Google Play zerbitzurik gabe, eta zure gailua ez da zerbitzuokin bateragarria."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Eguneratu"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Eguneratu Google Play zerbitzuak"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzurik gabe; une honetan eguneratzen ari dira zerbitzuok."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play zerbitzuen bertsio berria behar da. Berehala eguneratuko da automatikoki."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ireki telefonoan"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Hasi saioa"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Hasi saioa Google-n"</string>
+    <string name="connection_GPS_dialog_button1">Jarraitu</string>
+    <string name="connection_GPS_dialog_button2">Itxi</string>
+    <string name="connection_GPS_dialog_text">GPS kokapena ezin da eguneratu... \nJarraitzen baduzu, gerta daiteke informazioa 
+		\nleku desegokian bistaratzea.</string>
+    <string name="connection_error_dialog">Barkatu, konexio errore bat gertatu da! \nMesedez, egiaztatu internetera konektatuta zaudela.</string>
+    <string name="connection_error_dialog_button1">Saiatu berriz</string>
+    <string name="connection_error_dialog_button2">Ireki ezarpenak</string>
+    <string name="connection_error_dialog_button3">Itxi aplikazioa</string>
+    <string name="data_source_add">Gehitu datu-iturburua</string>
+    <string name="data_source_change_osm">OpenStreetMap ezarri da datu-iturburu bezala</string>
+    <string name="data_source_change_twitter">Twitter ezarri da datu-iturburu bezala</string>
+    <string name="data_source_change_wikipedia">Wikipedia ezarri da datu-iturburu bezala</string>
+    <string name="data_source_delete">Ezabatu datu-iturburua</string>
+    <string name="data_source_delete_err">Datu-iturburu hau ezin da ezabatu.</string>
+    <string name="data_source_edit">Editatu datu-iturburua</string>
+    <string name="data_source_edit_err">Datu-iturburu hau ezin da editatu.</string>
+    <string name="download_error">Errorea deskargatzean</string>
+    <string name="download_received">Datuak jaso dira hemendik:</string>
+    <string name="empty_list">Barkatu, \nez dago kokalekuen informaziorik \neskuragarri erradio honetan.\nMesedez, saiatu eremu handiago batean bilatzen.</string>
+    <string name="general_info_text">GPS informazioa: </string>
+    <string name="general_info_title">Informazio orokorra</string>
+    <string name="gps_last_fix">Azken GPS eguneraketa: </string>
+    <string name="insert_osm_url">Txertatu OpenStreetMap URLa</string>
+    <string name="latitude">Latitudea: </string>
+    <string name="license">Copyright (C) 2010- Peer internet solutions 
+		\n\nThis program is free software: 	you can redistribute it and/or modify it under the terms of the 
+		GNU General Public License as published by the Free Software Foundation, either version 3 of the License, 
+		or at your option) any later version. 
+		\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even 
+		the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public 
+		License for more details. 
+		\n\n You should have received a copy of the GNU General Public License along with this program. 
+		If not, see &lt;http://www.gnu.org/licenses/>
+	</string>
+    <string name="license_title">Lizentzia</string>
+    <string name="longitude">Longitudea: </string>
+    <string name="map_current_location_click">Uneko zure kokapena</string>
+    <string name="map_menu_cam_mode">Kamera</string>
+    <string name="map_menu_normal_mode">Mapa</string>
+    <string name="map_menu_satellite_mode">Satelitea</string>
+    <string name="map_my_location">Nire kokapena</string>
+    <string name="menu_item_1">Datu-iturburua</string>
+    <string name="menu_item_2">Zerrenda ikuspegia</string>
+    <string name="menu_item_3">Mapa ikuspegia</string>
+    <string name="menu_item_4">Zoom maila</string>
+    <string name="menu_item_5">Bilatu</string>
+    <string name="menu_item_6">Informazioa</string>
+    <string name="menu_item_7">Lizentzia</string>
+    <string name="no_website_available">Barkatu, ez dago informazio \ngehiagorik eskuragarri.</string>
+    <string name="option_not_available">Barkatu, lanean ari gara... \nAukera hau laster egongo da eskuragarri!</string>
+    <string name="osm_max_object_menu">Ezarri gehienezko interesguneak URLko</string>
+    <string name="search_active_1">Bilatu datu-iturburuan</string>
+    <string name="search_active_2">. Ukitu bilaketa amaitzeko</string>
+    <string name="search_failed_notification">Ez dago bilaketa emaitzarik</string>
+    <string name="search_hint">Bilatu kokalekua</string>
+    <string name="set_osm_max_object">Gehienezko interesguneak URLko</string>
+    <string name="source_openstreetmap">Geltokiak inguruan</string>
+    <string name="speed">Abiadura: </string>
+</resources>

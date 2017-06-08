@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\osm.png",
+        "source": "C:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\src\\main\\res\\drawable-hdpi\\osm.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wikipedia.png",
+        "source": "C:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\src\\main\\res\\drawable-hdpi\\wikipedia.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\thesis\\treasure-hunt-final\\mixare\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
